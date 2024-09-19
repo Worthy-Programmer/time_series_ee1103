@@ -1,1 +1,4 @@
 rollnum_timeseries
+*.out
+time.c
+.*
